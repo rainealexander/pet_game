@@ -17,5 +17,8 @@
     "jest": "^28.0.2",
     "parcel-bundler": "^1.12.5",
     "prettier": "^2.6.2"
-  }
+  },
+  "browserslist" : [
+    "Chrome >= 55"
+  ]
 }
